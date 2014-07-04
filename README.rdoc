@@ -1,9 +1,18 @@
 = Experiment-md3-loader
 
-[...]
+md3 keyframe animation test, old project => ugly source code.
+
+ - 2D texture test
+ - Lighting test
+ - Cell Shading
+   - texture 1D
+   - color (simply use the normal)
+   - bound
+ - render mode (FILL/LINE)
+ - anti aliasing
 
 == Screenshot
-soon...
+link:./media/experiment-md3-loader-screenshot.png
 
 == Video
 soon...
