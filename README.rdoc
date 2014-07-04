@@ -15,6 +15,6 @@ md3 keyframe animation test, old project => ugly source code.
 link:./media/experiment-md3-loader-screenshot.png
 
 == Video
-soon...
+https://www.youtube.com/watch?v=L9WHzwd1Vdc&feature=youtu.be
 
 == Thanks for watching !
